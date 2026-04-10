@@ -74,6 +74,10 @@ Para acessar o sistema:
 
 ## 📸 Evidência de Execução
 
-Print do sistema funcionando com o comando `dotnet run`.
+Prints do sistema funcionando com o comando `dotnet run`.
 
-![Execução do sistema](./minha-evidencia.png)
+### ✅ Login bem-sucedido
+![Login bem-sucedido](./minha-evidencia-bem-sucedido.png)
+
+### ❌ Login com erro
+![Login com erro](./minha-evidencia-erro.png)
